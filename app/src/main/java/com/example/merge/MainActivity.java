@@ -23,4 +23,9 @@ public class MainActivity extends AppCompatActivity {
     void testBranch() {
         Log.d("test","測試分支功能");
     }
+    
+    
+    void testBranch2() {
+        Log.d("test","測試分支功能");
+    }
 }
